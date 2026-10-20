@@ -8,8 +8,12 @@
 
 Ich entwickle Websites, Discord-Bots und setze kreative Ideen in digitale Projekte um.
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1220353690775326752)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DEIN-USERNAME)
+<p align="center">
+  <a href="https://discord.gg/opushost">
+    <img src="https://glyph-six.vercel.app/badge/Discord.svg?text=Join%20the%20community&color=5865F2&logo=discord" alt="Join the Discord">
+  </a>
+</p>
+
 
 </div>
 
