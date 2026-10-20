@@ -1,16 +1,53 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**llgglen/llgglen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Discord Presence](https://lanyard.cnrad.dev/api/1220353690775326752?theme=dark&bg=000000&animated=false&hideDiscrim=true&showDisplayName=true&borderRadius=16px&idleMessage=Probably%20working%20on%20cool%20projects&hideTimestamp=true)](https://discord.com/users/1220353690775326752)
 
-Here are some ideas to get you started:
+# Hey, ich bin Len
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Web-Entwickler & Bot-Entwickler
+
+Ich entwickle Websites, Discord-Bots und setze kreative Ideen in digitale Projekte um.
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1220353690775326752)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DEIN-USERNAME)
+
+</div>
+
+---
+
+## Über mich
+
+Ich beschäftige mich mit Webentwicklung, Discord-Bots und digitalen Projekten. Dabei probiere ich gerne neue Technologien aus, entwickle eigene Ideen und erweitere kontinuierlich meine Fähigkeiten.
+
+## Meine Skills
+
+<div align="center">
+
+**Web- & Bot-Entwicklung**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,wordpress,discordjs&theme=dark" alt="HTML, CSS, JavaScript, PHP, WordPress und Discord.js" />
+</a>
+
+**Tools & Plattformen**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=vscode,ps,ai,androidstudio,windows,robloxstudio&theme=dark" alt="Visual Studio Code, Photoshop, Illustrator, Android Studio, Windows und Roblox Studio" />
+</a>
+
+</div>
+
+## Aktuelle Interessen
+
+- Moderne und ansprechende Websites entwickeln
+- Individuelle Discord-Bots programmieren
+- Neue Technologien und Tools kennenlernen
+- Eigene Projekte planen und umsetzen
+
+---
+
+<div align="center">
+
+**Danke für deinen Besuch auf meinem Profil.**
+
+</div>
