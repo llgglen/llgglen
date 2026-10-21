@@ -30,7 +30,7 @@ Ich beschäftige mich mit Webentwicklung, Discord-Bots und digitalen Projekten. 
 **Web- & Bot-Entwicklung**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,wordpress,discordjs&theme=dark" alt="HTML, CSS, JavaScript, PHP, WordPress und Discord.js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,tailwind,python,wordpress,discordjs&theme=dark" alt="HTML, CSS, JavaScript, PHP, WordPress und Discord.js" />
 </a>
 
 **Tools & Plattformen**
